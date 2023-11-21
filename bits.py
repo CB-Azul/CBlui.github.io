@@ -14,4 +14,9 @@ print(answer)
 
 #trial for git testing
 #testing for git status short
+<<<<<<< HEAD
 #added merge exer
+=======
+#adding line for git branch merge
+#added line for branch merge
+>>>>>>> python-continuation-of-training
