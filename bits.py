@@ -20,4 +20,5 @@ print(answer)
 #adding line for git branch merge
 #added line for branch merge
 #added line for github editor exercise
+#added line for github editor exercise 2 merge
 >>>>>>> python-continuation-of-training
